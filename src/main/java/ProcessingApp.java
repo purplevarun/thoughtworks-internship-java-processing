@@ -29,7 +29,6 @@ public class ProcessingApp extends PApplet {
         ellipse(x++,HEIGHT/2,100,100);
     }
 
-    private void paintWhite() {
-        background(255);
+    private void paintWhite() {background(255);
     }
 }
