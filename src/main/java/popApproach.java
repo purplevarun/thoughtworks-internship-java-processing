@@ -1,10 +1,10 @@
 import processing.core.PApplet;
 
-public class ProcessingChallenge extends PApplet {
+public class popApproach extends PApplet {
     private static final int width = 800, height = 800, diameter=50;
     private static int x1 = 0, x2 =0, x3 = 0, x4=0;
     public static void main(String[] args) {
-        PApplet.main("ProcessingChallenge",args);
+        PApplet.main("popApproach",args);
     }
 
     @Override
